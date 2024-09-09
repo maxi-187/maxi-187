@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxi-187&label=Profile%20views&color=0e75b6&style=flat" alt="maxi-187" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxi-187" alt="maxi-187" /></a> </p>
-
 - 🔭 I’m currently working on [Riftworks Studios](https://discord.gg/jSMUCaxebe)
 
 - 🌱 I’m currently learning **Lua**
