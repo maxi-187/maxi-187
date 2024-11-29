@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxi-187&label=Profile%20views&color=0e75b6&style=flat" alt="maxi-187" /> </p>
 
-- 🔭 I’m currently working on [Riftworks Studios](https://discord.gg/jSMUCaxebe)
+- 🔭 I’m currently working on [Nothing]
 
-- 🌱 I’m currently learning **Lua**
+- 🌱 I’m currently learning **Nothing**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **maxi@riftworksstudios.com**
+- 📫 How to reach me **contact@maxi187.xyz**
 
 - ⚡ Fun fact **i love dogs**
 
