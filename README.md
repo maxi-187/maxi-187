@@ -36,8 +36,8 @@ I'm a passionate Fullstack Web Developer and a Verified Bot Developer specializi
 
 - **Focus:** Frontend and Backend Development evolving to Fullstack
 - **Projects:**
-  - Development of a Gambling System
-  - Admin Control Panel as Application for the Gambling System
+  - User Dashboard for a little System
+  - Admin Control Panel as Application for a Server on FiveM
 
 ### 2019-2020: Specialization in Lua
 
