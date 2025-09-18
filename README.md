@@ -48,6 +48,3 @@ I'm a passionate Fullstack Web Developer and a Verified Bot Developer specializi
 ### 📫 How to reach me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/905858345112567859)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vault777.discord@gmail.com)
-
-### ⚡ Status
-![Discord Status](https://discord.c99.nl/widget/theme-1/905858345112567859.png)
