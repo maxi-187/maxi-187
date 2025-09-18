@@ -18,17 +18,10 @@ I'm a passionate Fullstack Web Developer and a Verified Bot Developer specializi
 ![discord.js](https://img.shields.io/badge/discord.js-7289DA?style=flat-square&logo=discord&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
-### 📊 GitHub Stats
-
-![Naxi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxi-187&show_icons=true&theme=radical)
-
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxi-187&theme=dark)
 
-### 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxi-187&layout=compact&theme=radical)
 
 ### 🚀 Career Timeline & Experience
 
